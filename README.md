@@ -1,4 +1,4 @@
-# 🏗️ Compiler Construction: The While Language
+# 🏗️ Compiler: The While Language
 
 🧼✨ A comprehensive collection of compiler components developed for the **While** programming language. This repository documents the transition from high-level source code to x86 Assembly, covering lexical analysis, syntax parsing, semantic validation, and final code generation.
 
